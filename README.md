@@ -14,7 +14,7 @@ However the Gradle might take sometime, so don't worry!
 
 ## References
 
-**Welcoming** page photo by [**Bogomil Mihaylov**](https://unsplash.com/@bogomi)
+**Welcoming** page photo by [**Bogomil Mihaylov**](https://unsplash.com/@bogomi),
 **Main** page photo by [**Didssph**](https://unsplash.com/@didsss)
 
 ## Licence
