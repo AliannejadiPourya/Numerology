@@ -18,5 +18,4 @@ However the Gradle might take sometime, so don't worry!
 **Main** page photo by [**Didssph**](https://unsplash.com/@didsss)
 
 ## Licence
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
